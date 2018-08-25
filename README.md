@@ -52,5 +52,5 @@ import $ from 'jquery'
       favicon: "static/favicon.ico",
       inject: true
     }),
-[本demo演示地址] (https://tanghaibo.top)
+[本demo演示地址](https://tanghaibo.top)
 ```
