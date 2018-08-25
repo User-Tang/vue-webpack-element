@@ -53,5 +53,5 @@ import $ from 'jquery'
       inject: true
     }),
 本demo演示地址：
-http://tanghaibo.top
+(https://tanghaibo.top)
 ```
